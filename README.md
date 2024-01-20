@@ -5,6 +5,8 @@ Process mining mini tools
 ### Installation
 
 ```
+git clone https://github.com/tampth/process-mining-tools.git
+cd process-mining-tools
 pip install streamlit
 ```
 
