@@ -7,3 +7,9 @@ Process mining mini tools
 ```
 pip install streamlit
 ```
+
+### Run
+
+```
+streamlit run workspace.py
+```
