@@ -1,0 +1,3 @@
+name,description,created_by,created_at,event_log_id,case_column,activity_column,timestamp_column,status
+O2O,Sản xuất theo nhu cầu dự trữ,tampth,2024-01-17 00:29:51.921900,./data/eventlogO2O.csv,case_id,activity,timestamp,Ready
+O2C,Thanh toán đơn hàng,tampth,2024-01-17 00:30:08.240507,,,,,Not have event log
